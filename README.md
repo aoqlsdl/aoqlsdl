@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **aoqlsdl/aoqlsdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=008C04&height=300&section=header&text=aoqlsdl&fontSize=90&fontColor=ffffff">
+
+<h3>I'm currently learning...</h3>
+<!-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+ ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)-->
